@@ -1,7 +1,7 @@
 # Front-end-Bootstrap
 ### website project using  Bootstrap 5
 
-### ❇✳ Front-end-Bootstrap is teatcing website
+### ❇✳ Front-end Bootstrap is a teaching website that makes you become a web developer.
 
 ### ❇✳ Front-end-Bootstrap is a simple website built using HTML & Bootstrab  as a side-project to enhance my skill in  Bootstrab 5
 
